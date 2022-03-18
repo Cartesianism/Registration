@@ -6,10 +6,12 @@ labels: colab
 assignees: ''
 ---
 
+Read how to join before registration: https://github.com/Cartesianism/Manifesto
+
 **Anonymous contacts**
 
-Niсkname:  
-Email:  
+Niсkname: NEW CLEAR ACCOUNT (required)  
+Email: NEW CLEAR ACCOUNT (required)  
 
 **Specialization**
 
