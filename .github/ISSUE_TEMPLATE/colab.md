@@ -1,7 +1,7 @@
 ---
 name: New colaborator
 about: New colaborator request
-title: 'New colaborator: '
+title: 'Сolaborator'
 labels: colab
 assignees: ''
 ---
