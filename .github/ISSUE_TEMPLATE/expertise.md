@@ -1,7 +1,7 @@
 ---
 name: Expertise request
 about: Expertise request
-title: 'Expertise request: '
+title: 'Expertise request'
 labels: expertise
 assignees: ''
 ---
