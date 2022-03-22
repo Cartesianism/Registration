@@ -1,14 +1,14 @@
 ---
 name: New project
 about: New project proposal
-title: 'New project: '
+title: 'Project: <ENTER PROJECT NAME>'
 labels: project
 assignees: ''
 ---
 
 **Project info**
 
-Title:  
+Name:  
 Goals:  
 Priority:  
 
@@ -22,4 +22,8 @@ Add your thoughts on the required resources:
 - Time:
 - Money:
 - People:
+- Tech stack:
+- Integrations:
+- Security:
+- Secrecy:
 - Other:
